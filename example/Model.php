@@ -7,7 +7,7 @@ use App\Search\Searchable;
 
 class Task extends Model
 {
-	use Searchable;
+    use Searchable;
 
     public $searchColumns = [
         'column_name' => 'where|betweenDates|checkedByDate',

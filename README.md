@@ -1,5 +1,7 @@
 # LaravelAdvancedSearch
 
+**Note: New version comming up soon**
+
 This adds an advanced search to your project.
 
 Some functions:
